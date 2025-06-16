@@ -13,6 +13,27 @@ This week trabajaré los temas propuestos:
     * Declaración, expresión y flechas
     * try/catch y throw
 
+## Estrucura de mi proyecto
+```bash 
+📁 Riwi-/
+├── Semana-1/ 
+│   ├── Entrenamiento_1/ 
+│   │   ├── enunciado.txt
+│   │   ├── solucion/ 
+│   │   │   └── main.py         # Mi solución planteada
+│   │   └── requirements.txt    # (Si aplica)
+│   └── ...                     # Otros proyectos
+│
+├── templates/ 
+│   ├── plantilla-proyecto.md         # Plantilla base para iniciar un proyecto
+│   └── ejemplo-completado.md         # Ejemplo resuelto como referencia
+│
+├── docs/ 
+│   ├── plantilla-cronograma.md       # Plantilla Plan de avance (opcional)
+|  └── ejemplo-cronograma.md         # Ejemplo cronograma como referencia
+│
+└── README.md                         # Este archivo
+```
 
 ## Sección de practicas
 
