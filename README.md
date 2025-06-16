@@ -18,10 +18,14 @@ This week trabajaré los temas propuestos:
 
 ## Sección de reflexión
 
-* ¿Qué me pareció mas sencillo?
-* ¿Qué me pareció mas díficil?
-* ¿Cómo pude solucionar mis stoppers?
-* ¿Qué no comprendí muy bien y necesito apoyo?
+* ¿Qué aspectos del proceso consideré más accesibles o fluidos para mí?
+(Fomenta la reflexión sobre fortalezas y comprensión fluida.)
 
-<!-- control+k+ sola v  vista previa -->
+* ¿Qué elementos representaron un mayor nivel de desafío y por qué?
+(Invita a identificar áreas de dificultad y sus posibles causas.)
 
+* ¿Qué estrategias implementé para superar los obstáculos que se presentaron durante el proceso?
+(Promueve el análisis de los recursos personales y cognitivos usados para resolver problemas.)
+
+* ¿Qué conceptos o procedimientos aún no comprendo completamente y en qué aspectos específicos necesitaría orientación adicional?
+(Estimula la autorregulación y la búsqueda activa de apoyo.)
