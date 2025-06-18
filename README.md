@@ -20,17 +20,31 @@ This week trabajaré los temas propuestos:
 │   ├── Entrenamiento_1/ 
 │   │   ├── enunciado.txt
 │   │   ├── solucion/ 
-│   │   │   └── main.py         # Mi solución planteada
+│   │   │   └── main.js         # Mi solución planteada
 │   │   └── requirements.txt    # (Si aplica)
 │   └── ...                     # Otros proyectos
 │
-├── templates/ 
-│   ├── plantilla-proyecto.md         # Plantilla base para iniciar un proyecto
-│   └── ejemplo-completado.md         # Ejemplo resuelto como referencia
-│
-├── docs/ 
-│   ├── plantilla-cronograma.md       # Plantilla Plan de avance (opcional)
-|  └── ejemplo-cronograma.md         # Ejemplo cronograma como referencia
+├── Semana-2/ 
+│   ├── Entrenamiento_2/       
+│   ├── enunciado.txt
+│   │   ├── solucion/ 
+│   │   │   └── main.js         # Mi solución planteada
+│   │   └── requirements.txt    # (Si aplica)
+│   └── ...                     # Otros proyectos
+├── Semana-3/ 
+│   ├── Entrenamiento_3/       
+│   ├── enunciado.txt
+│   │   ├── solucion/ 
+│   │   │   └── main.js         # Mi solución planteada
+│   │   └── requirements.txt    # (Si aplica)
+│   └── ...                     # Otros proyectos
+├── Semana-4/ 
+│   ├── Entrenamiento_4/       
+│   ├── enunciado.txt
+│   │   ├── solucion/ 
+│   │   │   └── main.js         # Mi solución planteada
+│   │   └── requirements.txt    # (Si aplica)
+│   └── ...                     # Otros proyectos
 │
 └── README.md                         # Este archivo
 ```
